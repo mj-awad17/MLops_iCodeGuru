@@ -1,0 +1,9 @@
+Modularization
+- easy to debug, integrate, najmi-askQuestion-hpyperTunning(All parameters(values) must be tune to balance our code/model)
+Model Updation: depending on insights 
+-------------
+Versioning control System
+=>Common Tools used
+-GitHub: different person write the code according to their task 
+	There is 1 main branch and multiple of the sub-branches
+

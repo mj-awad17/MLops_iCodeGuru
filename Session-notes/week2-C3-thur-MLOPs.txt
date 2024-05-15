@@ -1,0 +1,44 @@
+----startup Sir AQibRehman Pirzada------
+data EDA by features, dependancy-report
+ELT about Data engineer 
+Nomalization:Normalisation basically means we distribute data normally. To Understand, Normalisation, 
+You need to understand Normal Distribution, Skewed curve etc 
+---------------
+
+---------------
+Directory-strucutre
+Data
+doc
+End-2-end
+-------------
+.py file many functions apply and how to convert it to module?
+
+src > make_datasets.py have many file for convertion to .csv
+read mutliple files and combine to converion into dataset of csv
+and get the path of the dataset to go processed_data, external_data from outer coming data,
+
+----Ma'am Rehmana Younis explaining directory----
+(Main folder) proj_name
+    -(sub-folder) configuration
+	-(file) config.py -> there are 2 functions written init: f1, f2
+		init.py		# this is cruial. for Linking to other files
+   -(sub-folder) Processing
+	-(file) data_hand.py
+		init.py		# this is cruial. for Linking to other files
+   -(sub-folder) Model Training
+		init.py		# this is cruial. for Linking to other files
+   -(sub-folder) Test
+		init.py		# this is cruial. for Linking to other files
+   -(file) model.py
+		-model.py link to configuration file by like: (from configuration.config imoprt f1)
+-------------------------Cleared----------------------------
+
+--------------Sir AQibRehman Pirzada back-------------
+
+Concept is Y we created Module & Y we use them?
+
+src all the stages_files in this directory
+	Stages like(reading-file, preprocessing,visualiztion, feature-Engineering, Split-data,model-train, model-evaluation)
+	Y benfit of these stages..	
+================================================================================
+Assignment:=> make two seperate file with two function and make linked them

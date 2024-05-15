@@ -1,0 +1,62 @@
+YAML - Yet another markup language, it's extention is .yml
+
+semi-structural language
+
+used for pipeline configuration
+
+Language used for serializations
+
+YAML alternate xml, json and protobuffer
+
+Memory and backup compatability
+
+YAML for structural format
+
+structure based on Key and values
+
+Key:values
+
+key always unique and values may be multiples
+
+in YAML date format is YYYY/MM/DD
+
+List/dictionary define in two ways 
+besure about indentation
+so list as
+'category:
+ - AWS
+ - DevOps
+ - AWS Certificatin' OR
+'course_dev: ['murthy','kaveya','nirnay']'
+
+for string
+short_description: >
+ this is the string value for the short_description
+
+
+
+detailed_description: |
+ this is the detailed description of the above key
+
+
+-------------------------------------------
+Now some words from AqibRehman Pirzada
+Alternative of yaml
+Tumal :
+INI : 
+HCL : 
+
+general knowledged about it
+--jupyter screen now--
+this is for how to train your model before YAML/MLOps
+baic libraries(numpy, pd, sklearn.impute-simple_imputer,preprocessing,labelEncoding,)
+ - dataload, viewData(head,tail,sample()), shape, unique, copy of data to secure the original data
+ - infoData, 
+take on columns when they are
+numeric_cols --> means
+cacategorical_col --> mode
+
+SimpleImputer on categorical column/data
+
+#scalling --> feature scalling
+	MinMaxScaler()

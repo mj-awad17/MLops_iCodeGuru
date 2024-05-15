@@ -1,0 +1,79 @@
+week 1 || Day 1 - Orientation of the MLOPs
+
+Agenda of the course 
+- What is the MLOPs and why we need MLOPs
+- GIt fot MLOPs
+- YAML Basics
+- Packaging ML Models
+- Mlflow, managa ML Experiments
+- Docker for ML
+- Build MLApps using Fast Api
+
+Beyound the course suggestion of the Leetcode for DSA Concepts.
+----------------------------------------------------------------
+
+week 1 || day 2 - https://www.facebook.com/iCodeguru/videos/454133547091032
+
+- What is MLOPs and why we need MLOPs
+	- World of ML better data and on e model is not enough when deploying ML models
+	  production continous 
+	- MLOPs based on ML and operations:
+		Automation, Agility, Collaboration, Continous integration and contious delivery
+    Agile, SDLC
+    - what is DevOps - VC, Jenkins-pipelines
+      SDLC (system development life cycle)
+	Idea->Requirements->Code it->Test it->Build it package->Depoly->Operation & Monitor
+    CI/CD = Continous integration / Continous Deploy
+    Version Control (git)
+    
+   1. Developer commit
+   2. Code Buid Artifacts
+   3. Code testing (uni-testing)
+   4. Code Analysis vulaerability analysis
+   5. Deploy change to staging
+   6. QA testing
+   7. Deploy to Prod
+   8. Go live
+---------------------------------------------------------
+week 1 || day 3 - https://www.facebook.com/iCodeguru/videos/1220286688955428
+
+Database-Backend-Frontend-User
+
+Collection / Gathering data different types of models and different way to collect data 
+like IOT, database, dataware house
+curate - remove outliers - ensure quality - cleaning - EDA - visualized - PLots
+Validate - quality ensure more - relevant data to training model - ensure data is accurate -
+ helpful for model to train or something like that
+Analyzsis - Pattern finds and Preprosessing - Feature engineering (x...,y)
+Train - divide data into 2 parts (20%-testing, 80%-training)
+Evaluate - model building
+piplines
+-------------------------------------------------------
+week 1 || day 4 - https://www.facebook.com/iCodeguru/videos/1605038103674821
+
+API - different api's used for collecting the data.
+Stages in MLOps
+Data collection/managment: The initial stage involves gathering, cleaning, and preprocessing data.
+Model Development: Build and train models using the prepared data. This includes selecting algos,
+setting hyperparameters, and iterative refining models based on their performance.
+Model validation: After development, models are rigorously tested and validated to ensure they meet predefined
+metrics and business goals. This typically involves evaluating the model's accuracy performace and bias to ensure
+it is reliable and fair.
+With respect to ML pipeline feature includes: f1-M=====m2-f2
+- Modularization of code
+- tracking all experiments including change in code, configuration and parameters
+- CI approach to automate pipeplines includes initiatem reviews and approve process.
+Model Development: Once Validated, models are deploy to production envioments where they can start providing insights
+and predictions in real applications.
+- Integrate with exiting app
+- Create frontend
+- Containerization the application
+Model Monitoring: Deploy models are continously monitoring ot detect performance degradation or data drift.
+this stage is critical to ensure that themodels rermain effective over time as I/d and env condition change.
+- Resource monitoring
+- alerts
+Model Updating: Depending on the insights gained during monitoring may need to be retrained or fine-tuned with
+new data or adjusted to reflect changes in the underlying data patterns.
+GOvernace and Compliance: Throught the MLOPs cycle, adherence to regulartory and ethical standards is essesntial.
+This includes managing data privacy, model trandperacny, and audit trails to comply with industry and govt. regulation.
+=======================================================================================================================

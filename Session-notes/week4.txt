@@ -1,0 +1,23 @@
+
+Day- 2
+
+https://www.facebook.com/260525852745569/videos/441157251955031
+
+ - students-presentation
+
+----ma'am share ----
+
+numpy==1.24.3
+pandas==1.5.3
+joblib==1.2.0
+scikit-learn==1.2.2
+scipy==1.10.1
+pytest==7.4.2
+setuptools == 67.8.0
+wheel==0.38.4
+-------------------
+
+nauman khalid share
+pip freeze > requirements.txt
+
+
