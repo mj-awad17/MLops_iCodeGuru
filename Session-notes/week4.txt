@@ -1,4 +1,8 @@
-
+week 4
+1: https://www.facebook.com/iCodeguru/videos/1498086281063397
+2: https://www.facebook.com/iCodeguru/videos/441157251955031
+4: https://www.facebook.com/iCodeguru/videos/829262302446005
+----------------------------------------------------------
 Day- 2
 
 https://www.facebook.com/260525852745569/videos/441157251955031
@@ -18,6 +22,57 @@ wheel==0.38.4
 -------------------
 
 nauman khalid share
-pip freeze > requirements.txt
+
+pip install -r requirements.txt
+
+-------------------------------
+
+
+Day - 4
+
+-> Y model save/real time use-case/community use/ kisi kay kabil b hai?
+-> when other person not get benefit from u'r model it's worth nothing
+
+Deployment -> model deploy on webApp or DesktopApp
+	- user satisfied daily time feedback and daily QA of u'r model
+	- webApp integrate some are important things are:
+		- Libraries = streamlit, gradio
+		   - sir AqibRehman ask Y we use above libraries?
+		google search streamlit -> getting start reading staff
+		   - 30 days challenge complete course about streamlit proper guideline here in that course.
+		   - these lib. codes are easy, open sourse, templates avaialabel(gallery), code can be integrate.
+		SEE ALL READING Staff of Streamlit on documantation, gihub repo, blogs
+		DrawBacks of Streamlit
+			
+----------Sir AqibRehman App-screeen-----
+screen shared to show the streamlit webApp of Iris dataset.
+-----------------------------------------
+what is difference between of libraries/framework
+framwork - > streamiing the web application on live, to make prototype djando, flask, fastApi
+	2 or 4 pages-application - flask
+	more than 10 pages - FastApi
+	large scale application like 10k pages - Django
+libraries -> simple mockups for showing the model testinig by streamlit, gradio
+
+example: when u have simple page u will use streamlit
+	when u have 3-5 page then use flask
+	large scale pages used django
+
+some people use django due to they have ORM
+	ORM is give build-in dashboard
+
+---
+The Object-Relational Mapper (ORM) is one of Django's most powerful features, allowing you to interact with your database 
+in the same way that you would with SQL. In truth, Django's ORM is essentially a pythonic technique to build SQL to query 
+and edit your database and obtain results.
+-----------------------------------------------------------------------------
+
+
+
+
+
+All the students must send emails to your university and HEC to register your university  :
+saroshan@hec.gov.pk
+jsic@mofept.gov.pk
 
 

@@ -5,6 +5,7 @@ week 1
 4: https://www.facebook.com/watch/live/?ref=watch_permalink&v=908863571041230
 5: https://www.facebook.com/watch/live/?ref=watch_permalink&v=2162006950835936
 ======================================================
+
 week 2
 1: https://www.facebook.com/watch/live/?ref=watch_permalink&v=7567240033334692
 2:
@@ -14,6 +15,7 @@ week 2
 
 https://www.facebook.com/watch/live/?ref=watch_permalink&v=1490391061851827
 https://www.facebook.com/watch/?v=1554139908768364
+
 ======================================================
 week 3:
 1: https://www.facebook.com/watch/live/?ref=watch_permalink&v=6297909290334049
@@ -21,7 +23,9 @@ week 3:
 3: https://www.facebook.com/watch/live/?ref=watch_permalink&v=469038118854424
 4: https://www.facebook.com/watch/live/?ref=watch_permalink&v=949893959845060
 5:
+
 =======================================================
 week 4
-
-4: https://www.facebook.com/watch/live/?ref=watch_permalink&v=465443779261580
+1: https://www.facebook.com/iCodeguru/videos/1498086281063397
+2: https://www.facebook.com/iCodeguru/videos/441157251955031
+3:
