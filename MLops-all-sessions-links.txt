@@ -1,4 +1,5 @@
 week 1
+
 1: https://www.facebook.com/watch/live/?ref=watch_permalink&v=346560441764322
 2: https://www.facebook.com/watch/live/?ref=watch_permalink&v=454133547091032
 3: https://www.facebook.com/watch/live/?ref=watch_permalink&v=1220286688955428
@@ -7,23 +8,27 @@ week 1
 ======================================================
 
 week 2
+
+ 🚀 GitHub, YAML, Directory flow ,End-to-end Project flow
+
 1: https://www.facebook.com/watch/live/?ref=watch_permalink&v=7567240033334692
-2:
+2: https://www.facebook.com/watch/?v=1554139908768364
 3: https://www.facebook.com/watch/live/?ref=watch_permalink&v=962745408397435
 4: https://www.facebook.com/watch/live/?ref=watch_permalink&v=465443779261580
 5: https://www.facebook.com/watch/live/?ref=watch_permalink&v=1490391061851827
-
-https://www.facebook.com/watch/live/?ref=watch_permalink&v=1490391061851827
-https://www.facebook.com/watch/?v=1554139908768364
-
 ======================================================
+
 week 3:
+
+ 🚀 Uni-testing*, 
+
 1: https://www.facebook.com/watch/live/?ref=watch_permalink&v=6297909290334049
 2: https://www.facebook.com/watch/live/?ref=watch_permalink&v=3212774112189685
 3: https://www.facebook.com/watch/live/?ref=watch_permalink&v=469038118854424
 4: https://www.facebook.com/watch/live/?ref=watch_permalink&v=949893959845060
 5:
 
+(*) hint: Goto session-notes see file Sir_AqibRehman-file
 =======================================================
 week 4
 1: https://www.facebook.com/iCodeguru/videos/1498086281063397

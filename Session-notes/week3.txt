@@ -1,6 +1,8 @@
-*****************
-Session 1 Monday
-*****************
+								**********************************************************
+
+											  Session 1
+
+								**********************************************************
 
 Talk on Modularization (Reviewing)
 	(Question Answering + Discssion + Add points)
@@ -53,7 +55,7 @@ see the file -> week3_sir_AqibRehman-file.ipynb
 ======================================================================================================================================================
 						*************************************************
                
-								Session 2 tuesday
+								Session 2
 
 						*************************************************
 
@@ -110,15 +112,38 @@ tools:
 ======================================================================================================================================================
 						*************************************************
                
-								Session 3 wednesday
+								Session 3
 
 						*************************************************
-Compoents of master Node
-APIs server-3 
-3-types 
-1-UI configuration
-2-Api
-3-CLI
 
-controller manager
-Scheduler
+Docker Engine: 
+	
+	- file give to tester: when u'r tester person don't have such good or such those files in their pc then the docker comes
+	
+	must present the docker engine
+		a project have different folders/files present in git
+	how a docker image create, kisi or ki machine main apka project run karny kaly apky project ki requirment es main hoti hai
+	
+	- docker file have config/requiremts
+	- image => whole depandancies integration but it's not in running state of application. just a package.	
+	- image running state is called `container`.
+	- Kubernetes - high availability, scalability performance. disaater recovery
+		overall all architecture
+			
+		cluster are the combination of nodes which are connect each other.
+			normally there a 2 master nodes for recovery and remaining are worker nodes.
+
+			one is master node and multiple workers node
+				each worker node run service which is called kubelet.
+			Node? this is physical/virtual machine
+			On each worker node container are run
+
+Compoents of master Node
+
+  - APIs server(UI configuration,Api,CLI) 
+  - controller manager
+  - Scheduler
+
+POds
+
+Sir AqibRehman PirZada share screen and explain some points..
