@@ -1,0 +1,17 @@
+Week 5: https://www.facebook.com/watch/live/?ref=watch_permalink&v=25786706657609287
+
+ Mlops -> model 1 last class
+
+ [Cloud deploy, CI/CD piplines, contarization] => will next course.
+
+--------Dicsussion speaker v/s participants---------
+Feedbacks in MLops, prespactives
+
+-----------------------------------------------------
+-> statistical 
+-> defrential statistics
+-> infrantial statistics
+-> how to see/ understood the features of the data or getting the predicting from data using statistics.
+	the answer is experienece/alot practice
+
+So start doing now..
